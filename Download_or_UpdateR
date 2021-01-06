@@ -30,7 +30,7 @@ Mac:
 The class will run more smoothly when everyone is using the same version of R and tidyverse. Please update R, tidyverse, and RStudio.
 
 1. Verify R version
-  Open RStudio. At the top of the Console (the lower lefthand box in RStudio) you will see session info. The first line tells you which version of R you are using. If RStudio is already open and you’re deep in a session, type R.version.string to print out the R version. Do you have R version 4.0.3 (“Bunny-Wunnies Freak Out”) installed? If not, please follow the instructions for updating R; if so, confirm RStudio and Tidyverse are instealled/updated (see below).
+  Open RStudio. At the top of the Console (the lower lefthand box in RStudio) you will see session info. The first line tells you which version of R you are using. If RStudio is already open and you’re deep in a session, type R.version.string to print out the R version. Do you have R version 4.0.3 (“Bunny-Wunnies Freak Out”) installed? If not, please follow the instructions for updating R; if so, confirm RStudio and Tidyverse are installed/updated (see below).
 
 1a. Updating R
   Windows
