@@ -19,4 +19,4 @@ There may be a penalty for submissions not meeting these requirements.
 
 | File      | Due Date          |
 |:-------------|:------------------|
-| [Assignment 1](./assignments/Assignment1.pdf) | Tuesday 1/19 |
+| [Assignment 1](./Assignment1.pdf) | Tuesday 1/19 |
