@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Data Science, Spring 2021
 
-You can use the [editor on GitHub](https://github.com/lhartigan15/LLO8200_spring2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a supplementary page for Professor Hartigan's section of LLO 8200 Introduction to Data Science. Make sure you bookmark and check this page frequently for the most up-to-date files to use for both async and assignments. Over the course of the term code may be optimized or corrected, so please alert me if you’re going to be working ahead. (_If you do work ahead, you will be responsible for updating your work if the assignments are updated._) You should have R, RStudio, and Tidyverse installed prior to the first day of class. Instructions for installing can be found [here](https://uvastatlab.github.io/phdplus/installR.html).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Async Lecture RStudio (.Rmd) Files
+These are the RStudio files and datasets that you will use in tandem with the async videos each week.
+1. Week 1 - [Introduction](./scripts/01-intro.Rmd), [College datafile](./scripts/college.Rdata)
+2. Week 2 - [Conditional Means](./scripts/02-condition_means.Rmd)
 
-### Markdown
+### Async Lecture Slides
+1. Week 1 - [Welcome](./slides/01_01_welcome.pptx)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Known Corrections to Async Questions
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Assignments
+Each assignment (problem set) is worth 100 points. The problem sets are due on the Sunday prior to the following week’s live session. All assignment submissions must be in “knitted” format:  html, doc, or pdf. There may be a penalty for submissions not meeting this requirement.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lhartigan15/LLO8200_spring2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| File      | Due Date          |
+|:-------------|:------------------|
+| [Assignment 1](./assignments/01-assignment.md) | Sunday 1/17, 12 noon (CT) |
