@@ -10,7 +10,7 @@ You should install R, RStudio, and tidyverse.
 
 1. Installing R
 Windows:
-  Go tohttps://cloud.r-project.org/bin/windows/base/
+  Go to https://cloud.r-project.org/bin/windows/base/
   Click the “Download R 3.5.2 for Windows” link.
   When the file finishes downloading, double-click to install. You should be able to click “Next” to all dialogs to finish the installation.
 Mac:
