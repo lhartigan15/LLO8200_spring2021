@@ -7,9 +7,6 @@ These are the RStudio files and datasets that you will use in tandem with the as
 1. Week 1 - [Introduction](./Async_Rmdfiles/01_Intro.Rmd), [College datafile](./Async_datafiles/college.Rdata)
 2. Week 2 - Conditional Means (new video link coming, please do not use the one in the LMS)
 
-### Async Lecture Slides
-1. Week 1 - [Welcome](./slides/01_01_welcome.pptx)
-
 ### Known Corrections to Async Questions
 * Week 1 - UNC Chapel Hill admit rate = 0.34
 
@@ -22,4 +19,4 @@ There may be a penalty for submissions not meeting these requirements.
 
 | File      | Due Date          |
 |:-------------|:------------------|
-| [Assignment 1](./assignments/01-assignment.md) | Sunday 1/17, 12 noon (CT) |
+| [Assignment 1](./assignments/01-assignment.md) | Tuesday 1/19 |
