@@ -11,7 +11,7 @@ These are the RStudio files and datasets that you will use in tandem with the as
 * Week 1 - UNC Chapel Hill admit rate = 0.34
 
 ### Assignments
-Each assignment (problem set) is worth 100 points. The problem sets are should be uploaded to the async before live session on their given due date. All assignment submissions should include two files:
+Each assignment (problem set) is worth 100 points. The problem sets should be uploaded to the async before live session on their given due date. All assignment submissions should include two files:
 1. Your .Rmd code file
 2. Your "knit" assignment file. The knit file can be an html, word, or pdf document (please choose one and do not submit it in multiple formats). 
 
