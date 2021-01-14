@@ -6,8 +6,8 @@ We are always trying to improve the course and also leave space for learning tha
 
 ### Async Lecture RStudio (.Rmd) Files
 These are the RStudio files and datasets that you will use in tandem with the async videos each week.
-1. Week 1 - [Introduction Rmd File](./Async_Rmdfiles/01_Intro.Rmd), [College datafile](./Async_datafiles/college.Rdata)
-2. Week 2 - Conditional Means (new video link coming, please do not use the one in the LMS)
+1. Week 1 - [Introduction Rmd File](./Async_Rmdfiles/01_Intro.Rmd), [College data](./Async_datafiles/college.Rdata)
+2. Week 2 - [Conditional Means Rmd File](./02_conditional_means.Rdm), [Student Debt data](./sc_debt.Rdata) (new video link coming TODAY! I will post as soon as I have it)
 
 ### Known Corrections to Async Questions
 * Week 1 - UNC Chapel Hill admit rate = 0.34
