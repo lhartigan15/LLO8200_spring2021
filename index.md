@@ -19,6 +19,7 @@ Each assignment (problem set) is worth 100 points. The problem sets should be up
 
 There may be a penalty for submissions not meeting these requirements.
 
-| File      | Due Date          |
+| File(s)      | Due Date          |
 |:-------------|:------------------|
-| [Assignment 1](./Assignment1.pdf) | Tuesday 1/19 |
+| [Assignment 1](./01_Assignment.pdf) | Tuesday 1/19 |
+| [Assignment 2 pdf](./02_Assignment.pdf), [Assignment 2 Rmd starter](./02_Assignment_Rmd), [pd dataset](./pd.Rdata) | Tuesday 1/26 |
