@@ -21,5 +21,5 @@ There may be a penalty for submissions not meeting these requirements.
 
 | File(s)      | Due Date          |
 |:-------------|:------------------|
-| [Assignment 1](./01_Assignment.pdf) | Tuesday 1/19 |
+| [Assignment 1 pdf](./01_Assignment.pdf) | Tuesday 1/19 |
 | [Assignment 2 pdf](./02_Assignment.pdf), [Assignment 2 Rmd starter](./02_Assignment.Rmd), [pd dataset](./pd.Rdata) | Tuesday 1/26 |
