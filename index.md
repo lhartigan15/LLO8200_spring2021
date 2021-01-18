@@ -7,7 +7,7 @@ We are always trying to improve the course and also leave space for learning tha
 ### Async Lecture RStudio (.Rmd) Files
 These are the RStudio files and datasets that you will use in tandem with the async videos each week.
 1. Week 1 - [Introduction Rmd File](./Async_Rmdfiles/01_Intro.Rmd), [College data](./Async_datafiles/college.Rdata)
-2. Week 2 - [Conditional Means Rmd File](./02_conditional_means.Rmd), [Student Debt data](./sc_debt.Rdata), Videos: First, watch 2.1 in the LMS; then, watch "conditional means part 1" (posted to course wall) and then "conditional means part 2" (posted to course wall). These videos will direct you when to watch LMS sections 2.7 and 2.8. (Note: The two conditional means videos replace sections 2.2-2.6 in the LMS)
+2. Week 2 - [Conditional Means Rmd File](./02_conditional_means.Rmd), [Student Debt data](./sc_debt.Rdata), Videos: First, watch 2.1 in the LMS; then, watch "conditional means part 1" (posted to course wall) and then "conditional means part 2" (posted to course wall). These videos will direct you when to watch LMS sections 2.7 and 2.8. (Note: The two conditional means videos replace sections 2.2-2.6 and 2.9 in the LMS)
 
 
 ### Known Corrections to Async Questions
