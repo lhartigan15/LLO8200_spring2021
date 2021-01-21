@@ -4,7 +4,7 @@ This is a supplementary page for Professor Hartigan's section of LLO 8200 Introd
 
 We are always trying to improve the course and also leave space for learning that's most applicable to your specific class. To that end, the syllabus will be updated accordingly, as we go. The most up to date syllabus can be found here: [LLO8200 - Spring 2021 Syllabus](./Hartigan_LLO8200_syllabus_january.pdf). 
 
-### Async Lecture RStudio (.Rmd) Files
+### Async/Sync Lecture RStudio (.Rmd) Files
 These are the RStudio files and datasets that you will use in tandem with the async videos each week.
 1. Week 1 - [Introduction Rmd File](./01_Intro.Rmd), [College dataset](./college.Rdata)
 2. Week 2 - [Conditional Means Rmd File](./02_conditional_means.Rmd), [Student Debt dataset](./sc_debt.Rdata), Videos: First, watch 2.1 in the LMS; then, watch "conditional means part 1" (posted to course wall) and then "conditional means part 2" (posted to course wall). These videos will direct you when to watch LMS sections 2.7 and 2.8. (Note: The two conditional means videos replace sections 2.2-2.6 and 2.9 in the LMS)
