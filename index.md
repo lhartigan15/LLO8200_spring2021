@@ -25,3 +25,8 @@ There may be a penalty for submissions not meeting these requirements.
 |:-------------|:------------------|
 | [Assignment 1 pdf](./01_Assignment.pdf) | Tuesday 1/19 |
 | [Assignment 2 pdf](./02_Assignment.pdf), [Assignment 2 Rmd starter](./02_Assignment.Rmd), [pd dataset](./pd.Rdata), [pd dataset codebook](./pd_codebook.Rdata) | Tuesday 1/26 |
+
+### Additional Resources
+There are a multitude of resources re. RStudio and RMarkdown on the web. Here is where I'll save some of my favorites. 
+* [R Markdown Reference Guide](./rmarkdown-reference.pdf)
+* [R Color Palette Cheat Sheet](./colorPaletteCheatsheet.pdf)
