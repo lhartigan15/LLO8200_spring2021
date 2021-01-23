@@ -29,4 +29,5 @@ There may be a penalty for submissions not meeting these requirements.
 ### Additional Resources
 There are a multitude of resources re. RStudio and RMarkdown on the web. Here is where I'll save some of my favorites. 
 * [R Markdown Reference Guide](./rmarkdown-reference.pdf)
+* [R Markdown Cheat Sheet](./rmarkdown-cheatsheet-2.0.pdf)
 * [R Color Palette Cheat Sheet](./colorPaletteCheatsheet.pdf)
