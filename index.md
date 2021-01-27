@@ -31,3 +31,6 @@ There are a multitude of resources re. RStudio and RMarkdown on the web. Here is
 * [R Markdown Reference Guide](./rmarkdown-reference.pdf)
 * [R Markdown Cheat Sheet](./rmarkdown-cheatsheet-2.0.pdf)
 * [R Color Palette Cheat Sheet](./colorPaletteCheatsheet.pdf)
+
+### Rmd Files with In-Class Annotations and Code for Async "Quick Exercises"
+* Week 3 - [Plotting Conditional Means](./03_DescriptivePlots_inclass.Rmd)
