@@ -15,7 +15,7 @@ These are the RStudio files and datasets that you will use in tandem with the as
 * Week 1 - UNC Chapel Hill admit rate = 0.34
 
 ### Assignments
-Each assignment (problem set) is worth 100 points. The problem sets should be uploaded to the async before live session on their given due date. All assignment submissions should include two files:
+Each assignment (problem set) is worth 100 points. The problem sets should be uploaded to the LMS before live session on the given due date. All assignment submissions should include two files:
 1. Your .Rmd code file.
 2. Your "knit" assignment file. The knit file can be an html, word, or pdf document (please choose one and do not submit it in multiple formats). 
 
@@ -23,9 +23,9 @@ There may be a penalty for submissions not meeting these requirements.
 
 | File(s)      | Due Date          |
 |:-------------|:------------------|
-| [Assignment 1 pdf](./01_Assignment.pdf) | Tuesday 1/19 |
-| [Assignment 2 pdf](./02_Assignment.pdf), [Assignment 2 Rmd starter](./02_Assignment.Rmd), [pd dataset](./pd.Rdata), [pd dataset codebook](./pd_codebook.Rdata) | Tuesday 1/26/21 |
-| [Assignment 3 pdf](./03_Assignment_starter.pdf), [Assignment 3 Rmd starter)(./03_Assignment_starter.Rmd), [attrition dataset](./attrition.Rdata) | Tuesday 2/9/21 |
+| [Assignment 1 pdf](./01_Assignment.pdf) | 1/19/21 |
+| [Assignment 2 pdf](./02_Assignment.pdf), [Assignment 2 Rmd starter](./02_Assignment.Rmd), [pd dataset](./pd.Rdata), [pd dataset codebook](./pd_codebook.Rdata) | 1/26/21 |
+| [Assignment 3 pdf](./03_Assignment_starter.pdf), [Assignment 3 Rmd starter)(./03_Assignment_starter.Rmd), [attrition dataset](./attrition.Rdata) | 2/9/21 |
 
 ### Additional Resources
 There are a multitude of resources re. RStudio and RMarkdown on the web. Here is where I'll save some of my favorites. 
