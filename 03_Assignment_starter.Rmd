@@ -1,0 +1,43 @@
+```{r}
+REMOVE ME BEFORE KNITTING!
+```
+---
+title: "Assignment 3"
+author: "Lacey Hartigan"
+date: "due 2/9/21"
+output:
+  pdf_document: default
+---
+
+Use the attrition dataset to answer the following questions. As always, your
+assignment must be turned in as a .Rmd file (and also please upload a knit file - html or PDF)
+
+First code chunk - set the file structure and open your libraries. 
+```{r  include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+```
+
+## 1. Create a plot that shows the distribution of monthly income. Write a sentence or two desribing what the plot tells you about the data. 
+*Please put your sentence(s) for each question OUTSIDE of your code chunks.*
+```{r}
+
+``` 
+
+## 2. Create a plot that shows the average level of monthly income by field of education. Write a sentence or two desribing what the plot tells you about the data. 
+```{r}
+
+```
+
+## 3. Create another plot that shows average level of monthly income by field of education and gender. Write a sentence or two desribing what the plot tells you about the data. 
+```{r}
+
+```
+
+## 4. Create a plot that shows average levels of monthly income by field of education, gender and job level (note - this is on a scale of 1-5, highest-ranked employees are 5). Write a sentence or two desribing what the plot tells you about the data. 
+```{r}
+
+```
+
+## 5. BONUS: Create another plot of your choosing and then describe what you plotted and what the plot might tell us about the data. 
