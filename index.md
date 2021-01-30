@@ -25,7 +25,7 @@ There may be a penalty for submissions not meeting these requirements.
 |:-------------|:------------------|
 | [Assignment 1 pdf](./01_Assignment.pdf) | 1/19/21 |
 | [Assignment 2 pdf](./02_Assignment.pdf), [Assignment 2 Rmd starter](./02_Assignment.Rmd), [pd dataset](./pd.Rdata), [pd dataset codebook](./pd_codebook.Rdata) | 1/26/21 |
-| [Assignment 3 pdf](./03_Assignment_starter.pdf), [Assignment 3 Rmd starter)(./03_Assignment_starter.Rmd), [attrition dataset](./attrition.Rdata) | 2/9/21 |
+| [Assignment 3 pdf](./03_Assignment_starter.pdf), [Assignment 3 Rmd starter](./03_Assignment_starter.Rmd), [attrition dataset](./attrition.Rdata) | 2/9/21 |
 
 ### Additional Resources
 There are a multitude of resources re. RStudio and RMarkdown on the web. Here is where I'll save some of my favorites. 
