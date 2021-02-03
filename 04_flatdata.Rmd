@@ -1,3 +1,6 @@
+```{r} 
+REMOVE ME BEFORE BEGINNING!
+```
 ---
 title: "LMS Module 4 - Working with Flat Data Files"
 author: "Lacey Hartigan (adopted from Will Doyle)"
