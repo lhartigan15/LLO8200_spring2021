@@ -9,7 +9,8 @@ These are the RStudio files and datasets that you will use in tandem with the as
 1. Week 1 - [Introduction Rmd File](./01_Intro.Rmd), [College dataset](./college.Rdata)
 2. Week 2 - [Conditional Means Rmd File](./02_conditional_means.Rmd), [Student Debt dataset](./sc_debt.Rdata), Videos: First, watch 2.1 in the LMS; then, watch "conditional means part 1" (posted to course wall) and then "conditional means part 2" (posted to course wall). These videos will direct you when to watch LMS sections 2.7 and 2.8. (Note: The two conditional means videos replace sections 2.2-2.6 and 2.9 in the LMS)
     * Additional helpful code for working with continuous data: [Creating Ntiles](./02_Creating_Ntiles.Rmd)
-3. Week 3 - [Plotting Conditional Means Rmd File](./03_DescriptivePlots.Rmd), [Attrition dataset](./attrition.Rdata)
+3. Weeks 3 & 4 - [Plotting Conditional Means Rmd File](./03_DescriptivePlots.Rmd), [Attrition dataset](./attrition.Rdata)
+4. Week 5 - [Reading in Flat (and other) Data](./04_flatdata.Rmd)
 
 ### Known Corrections to Async Questions
 * Week 1 - UNC Chapel Hill admit rate = 0.34
