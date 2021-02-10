@@ -36,4 +36,5 @@ There are a multitude of resources re. RStudio and RMarkdown on the web. Here is
 * [GGplot Cheat Sheet](./ggplot2-cheatsheet.pdf)
 
 ### Rmd Files with In-Class Annotations and Code for Async "Quick Exercises"
-* Week 3 - [Plotting Conditional Means](./03_DescriptivePlots_inclass.Rmd)
+* LMS Module 3 - [Plotting Conditional Means](./03_DescriptivePlots_inclass.Rmd)
+* LMS Module 4 - [Flat Data](./04_flatdata_inclass.Rmd)
