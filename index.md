@@ -11,7 +11,7 @@ These are the RStudio files and datasets that you will use in tandem with the as
     * Additional helpful code for working with continuous data: [Creating Ntiles](./02_Creating_Ntiles.Rmd)
 3. Weeks 3 & 4 - [LMS Mod3 - Plotting Conditional Means Rmd File](./03_DescriptivePlots.Rmd), [Attrition dataset](./attrition.Rdata)
 4. Week 5 - [LMS Mod4 - Reading in Flat (and other) Data](./04_flatdata.Rmd)
-5. Week 6 - [LMS Mod5 - Using Regression for Prediction -- forthcoming]
+5. Weeks 6 & 7 - [LMS Mod5 - Using Regression for Prediction](./05_regression.Rmd), [ELS training dataset](./els_train.Rdata), [ELS testing dataset](./els_test.Rdata)
 
 ### Known Corrections to Async Questions
 * Week 1 - UNC Chapel Hill admit rate = 0.34
