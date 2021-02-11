@@ -5,12 +5,13 @@ This is a supplementary page for Professor Hartigan's section of LLO 8200 Introd
 We are always trying to improve the course and also leave space for learning that's most applicable to your specific class. To that end, the syllabus will be updated accordingly, as we go. The most up to date syllabus can be found here: [LLO8200 - Spring 2021 Syllabus (updated 1/30/21 3:40pm)](./Hartigan_LLO8200_syllabus_throughFeb.pdf). 
 
 ### Async/Sync RStudio (.Rmd) Files
-These are the RStudio files and datasets that you will use in tandem with the async videos each week.
+These are the RStudio files and datasets that you will use in tandem with the async videos each week, listed by class week and LMS Module number.
 1. Week 1 - [LMS Mod1 - Introduction Rmd File](./01_Intro.Rmd), [College dataset](./college.Rdata)
 2. Week 2 - [LMS Mod2 - Conditional Means Rmd File](./02_conditional_means.Rmd), [Student Debt dataset](./sc_debt.Rdata), Videos: First, watch 2.1 in the LMS; then, watch "conditional means part 1" (posted to course wall) and then "conditional means part 2" (posted to course wall). These videos will direct you when to watch LMS sections 2.7 and 2.8. (Note: The two conditional means videos replace sections 2.2-2.6 and 2.9 in the LMS)
     * Additional helpful code for working with continuous data: [Creating Ntiles](./02_Creating_Ntiles.Rmd)
 3. Weeks 3 & 4 - [LMS Mod3 - Plotting Conditional Means Rmd File](./03_DescriptivePlots.Rmd), [Attrition dataset](./attrition.Rdata)
 4. Week 5 - [LMS Mod4 - Reading in Flat (and other) Data](./04_flatdata.Rmd)
+5. Week 6 - [LMS Mod5 - Using Regression for Prediction -- forthcoming]
 
 ### Known Corrections to Async Questions
 * Week 1 - UNC Chapel Hill admit rate = 0.34
@@ -27,6 +28,8 @@ There may be a penalty for submissions not meeting these requirements.
 | [Assignment 1 pdf](./01_Assignment.pdf) | 1/19/21 |
 | [Assignment 2 pdf](./02_Assignment.pdf), [Assignment 2 Rmd starter](./02_Assignment.Rmd), [pd dataset](./pd.Rdata), [pd dataset codebook](./pd_codebook.Rdata) | 1/26/21 |
 | [Assignment 3 pdf](./03_Assignment_starter.pdf), [Assignment 3 Rmd starter](./03_Assignment_starter.Rmd), [attrition dataset](./attrition.Rdata) | 2/9/21 |
+| [Assignment 4 pdf - forthcoming], [Assignment 4 Rmd starter - forthcoming] | 2/23/21 |
+
 
 ### Additional Resources
 There are a multitude of resources re. RStudio and RMarkdown on the web. Here is where I'll save some of my favorites. 
