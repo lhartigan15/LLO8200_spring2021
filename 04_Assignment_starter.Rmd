@@ -4,7 +4,7 @@ REMOVE ME BEFORE KNITTING!
 ---
 title: "Assignment 4"
 author: "Lacey Hartigan"
-date: "due 2/16/21"
+date: "due 2/23/21"
 output:
   pdf_document: default
 ---
