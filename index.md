@@ -2,7 +2,7 @@
 
 This is a supplementary page for Professor Hartigan's section of LLO 8200 Introduction to Data Science. Make sure you bookmark and check this page frequently for the most up-to-date files to use for both async and assignments. Over the course of the term code may be optimized or corrected, so please alert me if you’re going to be working ahead. (_If you do work ahead, you will be responsible for updating your work if the assignments are updated._) You should have R, RStudio, and Tidyverse installed prior to the first day of class. Instructions for installing can be found [here](./Download_or_UpdateR.docx).
 
-We are always trying to improve the course and also leave space for learning that's most applicable to your specific class. To that end, the syllabus will be updated accordingly, as we go. The most up to date syllabus can be found here: [LLO8200 - Spring 2021 Syllabus (updated 2/22/21 7:00pm)](./Hartigan_LLO8200_syllabus_throughMar1.pdf). 
+We are always trying to improve the course and also leave space for learning that's most applicable to your specific class. To that end, the syllabus will be updated accordingly, as we go. The most up to date syllabus can be found here: [LLO8200 - Spring 2021 Syllabus (updated 3/7/21 6:13pm)](./Hartigan_LLO8200_syllabus_final.pdf). 
 
 ### Async/Sync RStudio (.Rmd) Files
 These are the RStudio files and datasets that you will use in tandem with the async videos each week, listed by class week and LMS Module number.
