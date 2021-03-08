@@ -33,6 +33,10 @@ There may be a penalty for submissions not meeting these requirements.
 | [Assignment 4 pdf](./04_Assignment_starter.pdf), [Assignment 4 Rmd starter](./04_Assignment_starter.Rmd) | 2/23/21 |
 | [Assignment 5 pdf](./05_Assignment_starter.pdf), [Assignment 5 Rmd starter](./05_Assignment_starter.Rmd), [ELS Training data](./els_train.Rdata), [ELS Testing data](./els_test.Rdata) | 3/9/21 |
 
+### Final Project
+* [Expectations for Final Presentation and Products](./Expectations for final presentation and product.pdf)
+* [Grading Rubric](./Final Project Grader Report.pdf)
+
 ### Additional Resources
 There are a multitude of resources re. RStudio and RMarkdown on the web. Here is where I'll save some of my favorites. 
 * [R Markdown Reference Guide](./rmarkdown-reference.pdf)
@@ -43,3 +47,7 @@ There are a multitude of resources re. RStudio and RMarkdown on the web. Here is
 ### Rmd Files with In-Class Annotations and Code for Async "Quick Exercises"
 * LMS Module 3 - [Plotting Conditional Means](./03_DescriptivePlots_inclass.Rmd)
 * LMS Module 4 - [Flat Data](./04_flatdata_inclass.Rmd)
+
+### Final Project Examples from Last Term
+* [Presentation - advanced coder in group](./Booker_Kumbhari_Rasnick_Stonesifer_LLO 8200 Data Science_ BikeShare.pdf), [Corresponding Knit Report](./Booker_Kumbhari_Rasnick_Stonesifer_Final-Project-7-dec-no-jokes.html)
+* [Knit Report - all novice coders in group](./Bardo_Spannagel_Tompkins_College_Enrollment_Final.pdf)
