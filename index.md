@@ -14,7 +14,7 @@ These are the RStudio files and datasets that you will use in tandem with the as
 * Week 6 - [LMS Mod5 - Using Regression for Prediction](./05_regression.Rmd), [ELS training dataset](./els_train.Rdata), [ELS testing dataset](./els_test.Rdata)
 * Week 7 - [LMS Mod6 - Scatterplots](./06_scatterplots.Rmd), [ELS dataset - full](./els.Rdata)
 * Week 8 - [LMS Mod7 - Webscraping](./07_webscraping_2020.Rmd), [Optional Code - Twitter API](./07_twitterAPI.Rmd)
-* Week 9 - [LMS Mod8 - Classification](./08_classification.Rmd), [Za training dataset](./za_train.Rdata), [Za testing dataset](./za_test.Rdata)
+* Week 9 - [LMS Mod8 - Classification](./08_classification.Rmd), [Za training dataset](./za_train.RData), [Za testing dataset](./za_test.RData)
 
 ### Known Corrections to Async Questions
 * Week 1 - UNC Chapel Hill admit rate = 0.34
