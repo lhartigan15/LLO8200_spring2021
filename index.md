@@ -6,14 +6,14 @@ We are always trying to improve the course and also leave space for learning tha
 
 ### Async/Sync RStudio (.Rmd) Files
 These are the RStudio files and datasets that you will use in tandem with the async videos each week, listed by class week and LMS Module number.
-1. Week 1 - [LMS Mod1 - Introduction Rmd File](./01_Intro.Rmd), [College dataset](./college.Rdata)
-2. Week 2 - [LMS Mod2 - Conditional Means Rmd File](./02_conditional_means.Rmd), [Student Debt dataset](./sc_debt.Rdata), Videos: First, watch 2.1 in the LMS; then, watch "conditional means part 1" (posted to course wall) and then "conditional means part 2" (posted to course wall). These videos will direct you when to watch LMS sections 2.7 and 2.8. (Note: The two conditional means videos replace sections 2.2-2.6 and 2.9 in the LMS)
+* Week 1 - [LMS Mod1 - Introduction Rmd File](./01_Intro.Rmd), [College dataset](./college.Rdata)
+* Week 2 - [LMS Mod2 - Conditional Means Rmd File](./02_conditional_means.Rmd), [Student Debt dataset](./sc_debt.Rdata), Videos: First, watch 2.1 in the LMS; then, watch "conditional means part 1" (posted to course wall) and then "conditional means part 2" (posted to course wall). These videos will direct you when to watch LMS sections 2.7 and 2.8. (Note: The two conditional means videos replace sections 2.2-2.6 and 2.9 in the LMS)
     * Additional helpful code for working with continuous data: [Creating Ntiles](./02_Creating_Ntiles.Rmd)
-3. Weeks 3 & 4 - [LMS Mod3 - Plotting Conditional Means Rmd File](./03_DescriptivePlots.Rmd), [Attrition dataset](./attrition.Rdata)
-4. Week 5 - [LMS Mod4 - Reading in Flat (and other) Data](./04_flatdata.Rmd)
-5. Week 6 - [LMS Mod5 - Using Regression for Prediction](./05_regression.Rmd), [ELS training dataset](./els_train.Rdata), [ELS testing dataset](./els_test.Rdata)
-6. Week 7 - [LMS Mod6 - Scatterplots](./06_scatterplots.Rmd), [ELS dataset - full](./els.Rdata)
-6. Week 8 - [LMS Mod7 - Webscraping](./07_webscraping_2020.Rmd), [Additional Code (optional) - Twitter API](./07_twitterAPI.Rmd)
+* Weeks 3 & 4 - [LMS Mod3 - Plotting Conditional Means Rmd File](./03_DescriptivePlots.Rmd), [Attrition dataset](./attrition.Rdata)
+* Week 5 - [LMS Mod4 - Reading in Flat (and other) Data](./04_flatdata.Rmd)
+* Week 6 - [LMS Mod5 - Using Regression for Prediction](./05_regression.Rmd), [ELS training dataset](./els_train.Rdata), [ELS testing dataset](./els_test.Rdata)
+* Week 7 - [LMS Mod6 - Scatterplots](./06_scatterplots.Rmd), [ELS dataset - full](./els.Rdata)
+* Week 8 - [LMS Mod8 - Classification](./08_classification.Rmd), [Za training dataset](./za_train.Rdata), [Za testing dataset](./za_test.Rda)
 
 ### Known Corrections to Async Questions
 * Week 1 - UNC Chapel Hill admit rate = 0.34
