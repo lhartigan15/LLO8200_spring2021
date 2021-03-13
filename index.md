@@ -51,5 +51,5 @@ There are a multitude of resources re. RStudio and RMarkdown on the web. Here is
 * LMS Module 4 - [Flat Data](./04_flatdata_inclass.Rmd)
 
 ### Final Project Examples from Last Term (in no particular order)
-1. [Presentation - advanced coder in group](./Booker_Kumbhari_Rasnick_Stonesifer_LLO 8200 Data Science_ BikeShare.pdf), [Corresponding Knit Report](./Booker_Kumbhari_Rasnick_Stonesifer_Final-Project-7-dec-no-jokes.html)
-2. [Knit Report - all novice coders in group](./Bardo_Spannagel_Tompkins_College_Enrollment_Final.pdf)
+* [Presentation - advanced coder in group](./Booker_Kumbhari_Rasnick_Stonesifer_LLO 8200 Data Science_ BikeShare.pdf), [Corresponding Knit Report](./Booker_Kumbhari_Rasnick_Stonesifer_Final-Project-7-dec-no-jokes.html)
+* [Knit Report - all novice coders in group](./Bardo_Spannagel_Tompkins_College_Enrollment_Final.pdf)
