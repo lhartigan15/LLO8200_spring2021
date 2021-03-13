@@ -37,7 +37,7 @@ There may be a penalty for submissions not meeting these requirements.
 | [Assignment 6 pdf](./06_Assignment_classification_starter.pdf), [Assignment 6 Rmd starter](./06_Assignment_classification_starter.Rmd) | 3/30/21 |
 | Assignment 7 (placeholder) | 4/13/21 |
 
-### Final Project
+### Final Project -- ALL PRODUCTS DUE April 21, 2021 (by midnight Pacific time)
 * [Expectations for Final Presentation and Products](./Expectations for final presentation and product.pdf)
 * [Grading Rubric](./Final Project Grader Report.pdf)
 
