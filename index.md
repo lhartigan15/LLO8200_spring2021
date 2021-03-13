@@ -33,7 +33,9 @@ There may be a penalty for submissions not meeting these requirements.
 | [Assignment 3 pdf](./03_Assignment_starter.pdf), [Assignment 3 Rmd starter](./03_Assignment_starter.Rmd), [attrition dataset](./attrition.Rdata) | 2/9/21 |
 | [Assignment 4 pdf](./04_Assignment_starter.pdf), [Assignment 4 Rmd starter](./04_Assignment_starter.Rmd) | 2/23/21 |
 | [Assignment 5 pdf](./05_Assignment_starter.pdf), [Assignment 5 Rmd starter](./05_Assignment_starter.Rmd), [ELS Training data](./els_train.Rdata), [ELS Testing data](./els_test.Rdata) | 3/9/21 |
+| Final Project Progress Report 2 (email to Lacey; CC all group members) | 3/23/21 |
 | [Assignment 6 pdf](./06_Assignment_classification_starter.pdf), [Assignment 6 Rmd starter](./06_Assignment_classification_starter.Rmd) | 3/30/21 |
+| Assignment 7 (placeholder) | 4/13/21 |
 
 ### Final Project
 * [Expectations for Final Presentation and Products](./Expectations for final presentation and product.pdf)
