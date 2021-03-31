@@ -16,7 +16,7 @@ These are the RStudio files and datasets that you will use in tandem with the as
 * Week 8 - [LMS Mod7 - Webscraping](./07_webscraping_2020.Rmd), [Optional Code - Twitter API](./07_twitterAPI.Rmd)
 * Week 9 - [LMS Mod8 - Classification](./08_classification.Rmd), [Za training dataset](./za_train.RData), [Za testing dataset](./za_test.RData), [Interpreting Logistic Regression Output](./LogisticRegression_11-17-20.pptx)
 * Week 10 - [LMS Mod9 - Plots for Classification](./09_plots_classification.Rmd), [Za dataset](./za.RData)
-* Week 11 - [LMS Mod10 - Cross Validation](./10m_cross_validation.Rmd), [pd dataset](./pd.Rdata)
+* Week 11 - [LMS Mod10 - Cross Validation - UPDATED](./10m_cross_validation_inclass.Rmd), [pd dataset](./pd.Rdata)
 
 ### Known Corrections to Async Questions
 * Week 1 - UNC Chapel Hill admit rate = 0.34
